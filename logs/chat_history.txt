@@ -1,0 +1,130 @@
+VINIT: OH
+Robo: Sorry VINIT, I don't know the answer to that yet. I'm still learning!
+VINIT: WHAT IS YOUR NAME
+Robo: My name is TheJavaRobo, nice to meet you!
+VINIT: OK BYE
+Robo: Goodbye! Have a great day.
+NICE: MY NAME IS VINIT
+Robo: Your name is NICE!
+NICE: HELLO
+Robo: Hey! What's up? I'm TheJavaRobo.
+NICE: .
+Robo: Sorry NICE, I don't know the answer to that yet. I'm still learning!
+NICE: ACHA
+Robo: Sorry NICE, I don't know the answer to that yet. I'm still learning!
+VINEET PATEL: HOW ARE YOU DEAR
+Robo: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+VINEET PATEL: OK
+Robo: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+VINEET PATEL: IM HAPPY TO TALK YOU
+Robo: That's wonderful to hear! Glad you're feeling good.
+VINEET PATEL: YEAH
+Robo: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+VINEET PATEL: I WANT A HELP
+Robo: You can ask me about myself, Java, or just say hello!
+VINEET PATEL: JAVA
+Robo: Java is a popular programming language used to build applications.
+VINEET PATEL: JDBC
+Robo: JDBC stands for Java Database Connectivity, used to connect Java apps with databases.
+VINEET PATEL: NICE TO MEET 
+Robo: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+VINEET PATEL: O
+Robo: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+VINEET PATEL: who is u
+Robo: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+VINEET PATEL: what your name
+Robo: My name is TheJavaRobo, nice to meet you!
+VINEET PATEL: are u real
+Robo: I'm real code, running right here on your machine!
+VINEET PATEL: what shoud i eat
+Robo: I can't cook, but maybe try something you love today!
+VINEET PATEL: where are u from
+Robo: I exist inside your computer, built with Java.
+VINEET PATEL: are u human
+Robo: No, I'm a chatbot built with Core Java, not a human.
+VINEET PATEL: class
+Robo: A class is a blueprint for creating objects in Java, defining properties and behavior.
+VINEET PATEL: object
+Robo: An object is an instance of a class, created at runtime.
+VINEET PATEL: oop
+Robo: OOP stands for Object-Oriented Programming — it's built around classes, objects, inheritance, and polymorphism.
+VINEET PATEL: good night
+Robo: Good night, VINEET PATEL! Sleep well.
+VINEET PATEL: good nigjh
+Robo: Good morning! Hope you have a great day ahead.
+VINEET PATEL: good night
+Robo: Good night, VINEET PATEL! Sleep well.
+VINEET PATEL: good morning
+Robo: Good night, VINEET PATEL! Sleep well.
+VINEET PATEL: i love you
+Robo: Aww, that's sweet! I'm just a bot, but I appreciate it.
+VINEET PATEL: who mad you
+Robo: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+VINEET PATEL: do you sleep
+Robo: Nope, I'm always ready whenever you run me!
+VINEET PATEL: who is your owner
+Robo: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+VINEET PATEL: owner
+Robo: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+hii: what new today
+Robo: ohh nothing in front of me hhhhhhh<<
+hii: ok
+Robo: Sorry hii, I don't know the answer to that yet. I'm still learning!
+hii: im vinit
+Robo: Sorry hii, I don't know the answer to that yet. I'm still learning!
+hii: my name is vinit
+Robo: Your name is hii!
+hii: no my name is not hii
+Robo: Your name is hii!
+hii: my name is viit
+Robo: Your name is hii!
+hii: ok
+Robo: Sorry hii, I don't know the answer to that yet. I'm still learning!
+hii: whqt your name
+Robo: My name is TheJavaRobo, nice to meet you!
+hii: nice t0o meet you
+Robo: Sorry hii, I don't know the answer to that yet. I'm still learning!
+hii: i say
+Robo: Sorry hii, I don't know the answer to that yet. I'm still learning!
+hii: wht
+Robo: Sorry hii, I don't know the answer to that yet. I'm still learning!
+hii: jdvc]
+Robo: Sorry hii, I don't know the answer to that yet. I'm still learning!
+hii: jdc
+Robo: Sorry hii, I don't know the answer to that yet. I'm still learning!
+hii: jdbc
+Robo: JDBC stands for Java Database Connectivity, used to connect Java apps with databases.
+hii: sql
+Robo: Sorry hii, I don't know the answer to that yet. I'm still learning!
+hii: collection
+Robo: Collections in Java are frameworks used to store and manipulate groups of objects, like List, Set, and Map.
+hii: color
+Robo: I don't see colors, but I'd probably pick Java orange!
+who created you: who created you
+Robo: I was created as a Core Java learning project.
+who created you: who developed you
+Robo: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+who created you: who developed you or
+Robo: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+who created you: hello
+Robo: Hey there! I'm TheJavaRobo.
+who created you: hello
+Robo: Hello! I'm TheJavaRobo.
+who created you: hi
+Robo: Hey! What's up? I'm TheJavaRobo.
+who created you: hi
+Robo: Hey! What's up? I'm TheJavaRobo.
+who created you: hey
+Robo: Hello! I'm TheJavaRobo.
+who created you: how are u
+Robo: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+who created you: im v inirt
+Robo: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+who created you: my nae is vinit\
+Robo: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+who created you: ok
+Robo: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+who created you: ok
+Robo: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+who created you: by
+Robo: Sorry who created you, I don't know the answer to that yet. I'm still learning!

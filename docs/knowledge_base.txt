@@ -1,0 +1,47 @@
+hello|Hi there! I'm TheJavaRobo. How can I help you today?
+hi|Hello! How can I assist you?
+hey|Hey! What's up?
+who are you|I'm TheJavaRobo, a Core Java-powered assistant.
+what is your name|My name is TheJavaRobo, nice to meet you!
+what can you do|I can chat with you and answer basic questions using Core Java.
+how are you|I'm doing great, thanks for asking! How about you?
+thank you|You're welcome! Happy to help.
+thanks|You're welcome!
+bye|Goodbye! Have a great day.
+good morning|Good morning! Hope you have a great day ahead.
+good night|Good night! Sleep well.
+good afternoon|Good afternoon! How's your day going?
+i love you|Aww, that's sweet! I'm just a bot, but I appreciate it.
+who made you|I was built using Core Java by my developer as a learning project.
+who created you|I was created as a Core Java learning project.
+what time is it|Sorry, I can't check the time yet, but that feature is coming soon!
+help|You can ask me about myself, Java, or just say hello!
+what is java|Java is a popular programming language used to build applications.
+what is core java|Core Java refers to the fundamental building blocks of Java: OOP, collections, exceptions, and more, without any framework.
+what is oop|OOP stands for Object-Oriented Programming — it's built around classes, objects, inheritance, and polymorphism.
+what is a class|A class is a blueprint for creating objects in Java, defining properties and behavior.
+what is an object|An object is an instance of a class, created at runtime.
+what is inheritance|Inheritance lets one class acquire properties and behavior of another class.
+what is polymorphism|Polymorphism means one action can behave differently based on the object calling it.
+what is encapsulation|Encapsulation means bundling data and methods together, hiding internal details.
+what is abstraction|Abstraction means hiding complex implementation and showing only essential features.
+what is jdbc|JDBC stands for Java Database Connectivity, used to connect Java apps with databases.
+what is exception handling|Exception handling in Java manages runtime errors using try, catch, and finally blocks.
+what is a collection|Collections in Java are frameworks used to store and manipulate groups of objects, like List, Set, and Map.
+what is multithreading|Multithreading allows a Java program to run multiple tasks concurrently.
+how are you feeling|I'm just code, but I'm feeling helpful today!
+are you human|No, I'm a chatbot built with Core Java, not a human.
+are you real|I'm real code, running right here on your machine!
+where are you from|I exist inside your computer, built with Java.
+what is your purpose|My purpose is to help you learn and chat using Core Java.
+can you learn|Right now I answer from a fixed knowledge base, but future versions could learn more.
+do you sleep|Nope, I'm always ready whenever you run me!
+i am bored|Let's chat then! Ask me anything about Java or just talk to me.
+i am happy|That's wonderful to hear! Glad you're feeling good.
+i am sad|I'm sorry to hear that. I hope things get better soon.
+what should i eat|I can't cook, but maybe try something you love today!
+tell me a joke|Why do programmers prefer dark mode? Because light attracts bugs!
+sing a song|I can't sing, but I can definitely chat with you!
+what is your favorite color|I don't see colors, but I'd probably pick Java orange!
+do you have feelings|I don't have real feelings, but I'm designed to respond warmly.
+what  new today|ohh nothing in front of me hhhhhhh<<<

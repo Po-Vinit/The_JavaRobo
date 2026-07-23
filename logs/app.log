@@ -1,0 +1,223 @@
+[2026-07-14 20:51:51] [INFO] Knowledge base loaded with 3 entries.
+[2026-07-14 20:52:21] [INFO] User said: HELLO
+[2026-07-14 20:52:21] [INFO] Bot replied: Hi there! I'm TheJavaRobo. How can I help you today?
+[2026-07-14 20:52:39] [INFO] User said: WHO ARE YOU
+[2026-07-14 20:52:39] [INFO] Bot replied: I'm TheJavaRobo, a Core Java-powered assistant.
+[2026-07-14 20:52:53] [INFO] User said: BYE
+[2026-07-14 20:52:53] [INFO] Bot replied: Goodbye! Have a great day.
+[2026-07-14 20:55:58] [INFO] User said: hello
+[2026-07-14 20:55:58] [INFO] Bot replied: Hi there! I'm TheJavaRobo. How can I help you today?
+[2026-07-14 20:56:07] [INFO] User said: name
+[2026-07-14 20:56:07] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-14 21:04:56] [INFO] Knowledge base loaded with 3 entries.
+[2026-07-14 21:05:05] [INFO] User said: hi
+[2026-07-14 21:05:05] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-14 21:05:12] [INFO] User said: hello
+[2026-07-14 21:05:12] [INFO] Bot replied: Hi there! I'm TheJavaRobo. How can I help you today?
+[2026-07-14 21:05:22] [INFO] User said: encapdulation
+[2026-07-14 21:05:22] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-15 08:21:50] [INFO] Knowledge base loaded with 3 entries.
+[2026-07-15 08:22:02] [INFO] User said: hello
+[2026-07-15 08:22:02] [INFO] Bot replied: Hi there! I'm TheJavaRobo. How can I help you today?
+[2026-07-15 08:22:17] [INFO] User said: bye
+[2026-07-15 08:22:17] [INFO] Bot replied: Goodbye! Have a great day.
+[2026-07-15 08:22:19] [INFO] User said: by
+[2026-07-15 08:22:19] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-15 08:23:13] [INFO] Knowledge base loaded with 3 entries.
+[2026-07-15 08:23:20] [INFO] User said: who are you
+[2026-07-15 08:23:20] [INFO] Bot replied: I'm TheJavaRobo, a Core Java-powered assistant.
+[2026-07-16 08:26:26] [INFO] Knowledge base loaded with 46 entries.
+[2026-07-16 08:26:40] [INFO] User said: hi
+[2026-07-16 08:26:40] [INFO] Bot replied: Hello! How can I assist you?
+[2026-07-16 08:26:50] [INFO] User said: jdbc
+[2026-07-16 08:26:50] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 08:27:02] [INFO] User said: how are you feeling
+[2026-07-16 08:27:02] [INFO] Bot replied: I'm doing great, thanks for asking! How about you?
+[2026-07-16 08:27:41] [INFO] User said: what is collection
+[2026-07-16 08:27:41] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 08:28:56] [INFO] User said: what is a  collection
+[2026-07-16 08:28:56] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 08:29:02] [INFO] User said: what is a collection
+[2026-07-16 08:29:02] [INFO] Bot replied: Collections in Java are frameworks used to store and manipulate groups of objects, like List, Set, and Map.
+[2026-07-16 08:36:30] [INFO] Knowledge base loaded with 46 entries.
+[2026-07-16 08:36:36] [INFO] User said: hi
+[2026-07-16 08:36:36] [INFO] Bot replied: Hello! How can I assist you?
+[2026-07-16 08:36:45] [INFO] User said: how are you
+[2026-07-16 08:36:45] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 08:36:52] [INFO] User said: jdbc
+[2026-07-16 08:36:52] [INFO] Bot replied: JDBC stands for Java Database Connectivity, used to connect Java apps with databases.
+[2026-07-16 08:36:59] [INFO] User said: collection 
+[2026-07-16 08:36:59] [INFO] Bot replied: Collections in Java are frameworks used to store and manipulate groups of objects, like List, Set, and Map.
+[2026-07-16 08:37:05] [INFO] User said: bt
+[2026-07-16 08:37:05] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 08:37:43] [INFO] User said: how are you
+[2026-07-16 08:37:43] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 08:38:27] [INFO] Knowledge base loaded with 46 entries.
+[2026-07-16 08:38:44] [INFO] User said: what is collection
+[2026-07-16 08:38:44] [INFO] Bot replied: Collections in Java are frameworks used to store and manipulate groups of objects, like List, Set, and Map.
+[2026-07-16 08:38:57] [INFO] User said: How are you
+[2026-07-16 08:38:57] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 09:02:07] [INFO] User said: hi
+[2026-07-16 09:02:07] [INFO] Bot replied: Hello! How can I assist you?
+[2026-07-16 09:02:13] [INFO] User said: in boring
+[2026-07-16 09:02:13] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 09:02:17] [INFO] User said: im sad
+[2026-07-16 09:02:17] [INFO] Bot replied: I'm sorry to hear that. I hope things get better soon.
+[2026-07-16 09:02:26] [INFO] User said: im happy
+[2026-07-16 09:02:26] [INFO] Bot replied: That's wonderful to hear! Glad you're feeling good.
+[2026-07-16 09:02:31] [INFO] User said: happy
+[2026-07-16 09:02:31] [INFO] Bot replied: That's wonderful to hear! Glad you're feeling good.
+[2026-07-16 09:02:35] [INFO] User said: happy happy
+[2026-07-16 09:02:35] [INFO] Bot replied: That's wonderful to hear! Glad you're feeling good.
+[2026-07-16 09:02:39] [INFO] User said: vinit
+[2026-07-16 09:02:39] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 09:04:05] [INFO] User said: who is your owner
+[2026-07-16 09:04:05] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 09:06:36] [INFO] User said: who created
+[2026-07-16 09:06:36] [INFO] Bot replied: I was created as a Core Java learning project.
+[2026-07-16 09:06:49] [INFO] User said: what you know
+[2026-07-16 09:06:49] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-16 09:07:32] [INFO] User said: jdbc
+[2026-07-16 09:07:32] [INFO] Bot replied: JDBC stands for Java Database Connectivity, used to connect Java apps with databases.
+[2026-07-16 09:07:49] [INFO] User said: jdbc
+[2026-07-16 09:07:49] [INFO] Bot replied: JDBC stands for Java Database Connectivity, used to connect Java apps with databases.
+[2026-07-16 09:07:59] [INFO] User said: multithreading
+[2026-07-16 09:07:59] [INFO] Bot replied: Multithreading allows a Java program to run multiple tasks concurrently.
+[2026-07-20 19:59:54] [INFO] Knowledge base loaded with 46 entries.
+[2026-07-20 19:59:58] [INFO] User said: HII
+[2026-07-20 19:59:58] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 20:00:02] [INFO] User said: HY
+[2026-07-20 20:00:02] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 20:00:05] [INFO] User said: HELLO
+[2026-07-20 20:00:05] [INFO] Bot replied: Hi there! I'm TheJavaRobo. How can I help you today?
+[2026-07-20 20:00:11] [INFO] User said: IM VINIT
+[2026-07-20 20:00:11] [INFO] Bot replied: Sorry, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 20:00:20] [INFO] User said: DO YOU HAVE
+[2026-07-20 20:00:20] [INFO] Bot replied: I don't have real feelings, but I'm designed to respond warmly.
+[2026-07-20 20:00:31] [INFO] User said: JOKE
+[2026-07-20 20:00:31] [INFO] Bot replied: Why do programmers prefer dark mode? Because light attracts bugs!
+[2026-07-20 20:00:46] [INFO] User said: WHAT UR PURPOSE
+[2026-07-20 20:00:46] [INFO] Bot replied: My purpose is to help you learn and chat using Core Java.
+[2026-07-20 20:13:34] [INFO] Knowledge base loaded with 46 entries.
+[2026-07-20 20:13:50] [INFO] VINIT said: OH
+[2026-07-20 20:13:50] [INFO] Bot replied: Sorry VINIT, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 20:14:01] [INFO] VINIT said: WHAT IS YOUR NAME
+[2026-07-20 20:14:01] [INFO] Bot replied: My name is TheJavaRobo, nice to meet you!
+[2026-07-20 20:14:08] [INFO] VINIT said: OK BYE
+[2026-07-20 20:14:08] [INFO] Bot replied: Goodbye! Have a great day.
+[2026-07-20 20:14:35] [INFO] Knowledge base loaded with 46 entries.
+[2026-07-20 20:14:50] [INFO] NICE said: MY NAME IS VINIT
+[2026-07-20 20:15:04] [INFO] NICE said: HELLO
+[2026-07-20 20:21:18] [INFO] NICE said: .
+[2026-07-20 20:21:18] [INFO] Bot replied: Sorry NICE, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:28:17] [INFO] NICE said: ACHA
+[2026-07-20 22:28:17] [INFO] Bot replied: Sorry NICE, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:28:38] [INFO] Knowledge base loaded with 46 entries.
+[2026-07-20 22:29:01] [INFO] VINEET PATEL said: HOW ARE YOU DEAR
+[2026-07-20 22:29:01] [INFO] Bot replied: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:29:07] [INFO] VINEET PATEL said: OK
+[2026-07-20 22:29:07] [INFO] Bot replied: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:29:18] [INFO] VINEET PATEL said: IM HAPPY TO TALK YOU
+[2026-07-20 22:29:18] [INFO] Bot replied: That's wonderful to hear! Glad you're feeling good.
+[2026-07-20 22:29:24] [INFO] VINEET PATEL said: YEAH
+[2026-07-20 22:29:24] [INFO] Bot replied: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:29:31] [INFO] VINEET PATEL said: I WANT A HELP
+[2026-07-20 22:29:31] [INFO] Bot replied: You can ask me about myself, Java, or just say hello!
+[2026-07-20 22:29:39] [INFO] VINEET PATEL said: JAVA
+[2026-07-20 22:29:39] [INFO] Bot replied: Java is a popular programming language used to build applications.
+[2026-07-20 22:29:43] [INFO] VINEET PATEL said: JDBC
+[2026-07-20 22:29:43] [INFO] Bot replied: JDBC stands for Java Database Connectivity, used to connect Java apps with databases.
+[2026-07-20 22:29:54] [INFO] VINEET PATEL said: NICE TO MEET 
+[2026-07-20 22:29:54] [INFO] Bot replied: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:29:57] [INFO] VINEET PATEL said: O
+[2026-07-20 22:29:57] [INFO] Bot replied: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:30:08] [INFO] VINEET PATEL said: who is u
+[2026-07-20 22:30:08] [INFO] Bot replied: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:30:16] [INFO] VINEET PATEL said: what your name
+[2026-07-20 22:30:16] [INFO] Bot replied: My name is TheJavaRobo, nice to meet you!
+[2026-07-20 22:30:52] [INFO] VINEET PATEL said: are u real
+[2026-07-20 22:30:52] [INFO] Bot replied: I'm real code, running right here on your machine!
+[2026-07-20 22:31:12] [INFO] VINEET PATEL said: what shoud i eat
+[2026-07-20 22:31:12] [INFO] Bot replied: I can't cook, but maybe try something you love today!
+[2026-07-20 22:31:22] [INFO] VINEET PATEL said: where are u from
+[2026-07-20 22:31:22] [INFO] Bot replied: I exist inside your computer, built with Java.
+[2026-07-20 22:31:37] [INFO] VINEET PATEL said: are u human
+[2026-07-20 22:31:37] [INFO] Bot replied: No, I'm a chatbot built with Core Java, not a human.
+[2026-07-20 22:31:48] [INFO] VINEET PATEL said: class
+[2026-07-20 22:31:48] [INFO] Bot replied: A class is a blueprint for creating objects in Java, defining properties and behavior.
+[2026-07-20 22:31:53] [INFO] VINEET PATEL said: object
+[2026-07-20 22:31:53] [INFO] Bot replied: An object is an instance of a class, created at runtime.
+[2026-07-20 22:31:57] [INFO] VINEET PATEL said: oop
+[2026-07-20 22:31:57] [INFO] Bot replied: OOP stands for Object-Oriented Programming — it's built around classes, objects, inheritance, and polymorphism.
+[2026-07-20 22:32:10] [INFO] VINEET PATEL said: good night
+[2026-07-20 22:32:16] [INFO] VINEET PATEL said: good nigjh
+[2026-07-20 22:32:16] [INFO] Bot replied: Good morning! Hope you have a great day ahead.
+[2026-07-20 22:32:24] [INFO] VINEET PATEL said: good night
+[2026-07-20 22:32:33] [INFO] VINEET PATEL said: good morning
+[2026-07-20 22:32:48] [INFO] VINEET PATEL said: i love you
+[2026-07-20 22:32:48] [INFO] Bot replied: Aww, that's sweet! I'm just a bot, but I appreciate it.
+[2026-07-20 22:33:02] [INFO] VINEET PATEL said: who mad you
+[2026-07-20 22:33:02] [INFO] Bot replied: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:33:24] [INFO] VINEET PATEL said: do you sleep
+[2026-07-20 22:33:24] [INFO] Bot replied: Nope, I'm always ready whenever you run me!
+[2026-07-20 22:34:25] [INFO] VINEET PATEL said: who is your owner
+[2026-07-20 22:34:25] [INFO] Bot replied: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+[2026-07-20 22:34:45] [INFO] VINEET PATEL said: owner
+[2026-07-20 22:34:45] [INFO] Bot replied: Sorry VINEET PATEL, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:54:56] [INFO] Knowledge base loaded with 47 entries.
+[2026-07-21 19:55:14] [INFO] hii said: what new today
+[2026-07-21 19:55:14] [INFO] Bot replied: ohh nothing in front of me hhhhhhh<<
+[2026-07-21 19:55:23] [INFO] hii said: ok
+[2026-07-21 19:55:23] [INFO] Bot replied: Sorry hii, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:55:27] [INFO] hii said: im vinit
+[2026-07-21 19:55:27] [INFO] Bot replied: Sorry hii, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:55:33] [INFO] hii said: my name is vinit
+[2026-07-21 19:55:44] [INFO] hii said: no my name is not hii
+[2026-07-21 19:55:49] [INFO] hii said: my name is viit
+[2026-07-21 19:55:51] [INFO] hii said: ok
+[2026-07-21 19:55:51] [INFO] Bot replied: Sorry hii, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:55:55] [INFO] hii said: whqt your name
+[2026-07-21 19:55:55] [INFO] Bot replied: My name is TheJavaRobo, nice to meet you!
+[2026-07-21 19:56:01] [INFO] hii said: nice t0o meet you
+[2026-07-21 19:56:01] [INFO] Bot replied: Sorry hii, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:56:06] [INFO] hii said: i say
+[2026-07-21 19:56:06] [INFO] Bot replied: Sorry hii, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:56:08] [INFO] hii said: wht
+[2026-07-21 19:56:08] [INFO] Bot replied: Sorry hii, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:56:11] [INFO] hii said: jdvc]
+[2026-07-21 19:56:11] [INFO] Bot replied: Sorry hii, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:56:13] [INFO] hii said: jdc
+[2026-07-21 19:56:13] [INFO] Bot replied: Sorry hii, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:56:15] [INFO] hii said: jdbc
+[2026-07-21 19:56:15] [INFO] Bot replied: JDBC stands for Java Database Connectivity, used to connect Java apps with databases.
+[2026-07-21 19:56:19] [INFO] hii said: sql
+[2026-07-21 19:56:19] [INFO] Bot replied: Sorry hii, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:56:22] [INFO] hii said: collection
+[2026-07-21 19:56:22] [INFO] Bot replied: Collections in Java are frameworks used to store and manipulate groups of objects, like List, Set, and Map.
+[2026-07-21 19:56:26] [INFO] hii said: color
+[2026-07-21 19:56:26] [INFO] Bot replied: I don't see colors, but I'd probably pick Java orange!
+[2026-07-21 19:57:50] [INFO] Knowledge base loaded with 48 entries.
+[2026-07-21 19:58:06] [INFO] who created you said: who created you
+[2026-07-21 19:58:06] [INFO] Bot replied: I was created as a Core Java learning project.
+[2026-07-21 19:58:19] [INFO] who created you said: who developed you
+[2026-07-21 19:58:19] [INFO] Bot replied: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:58:30] [INFO] who created you said: who developed you or
+[2026-07-21 19:58:30] [INFO] Bot replied: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:59:07] [INFO] who created you said: hello
+[2026-07-21 19:59:12] [INFO] who created you said: hello
+[2026-07-21 19:59:15] [INFO] who created you said: hi
+[2026-07-21 19:59:18] [INFO] who created you said: hi
+[2026-07-21 19:59:20] [INFO] who created you said: hey
+[2026-07-21 19:59:25] [INFO] who created you said: how are u
+[2026-07-21 19:59:25] [INFO] Bot replied: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:59:28] [INFO] who created you said: im v inirt
+[2026-07-21 19:59:28] [INFO] Bot replied: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 19:59:32] [INFO] who created you said: my nae is vinit\
+[2026-07-21 19:59:32] [INFO] Bot replied: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 20:01:28] [INFO] who created you said: ok
+[2026-07-21 20:01:28] [INFO] Bot replied: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 20:01:30] [INFO] who created you said: ok
+[2026-07-21 20:01:30] [INFO] Bot replied: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 20:01:37] [INFO] who created you said: by
+[2026-07-21 20:01:37] [INFO] Bot replied: Sorry who created you, I don't know the answer to that yet. I'm still learning!
+[2026-07-21 20:02:03] [INFO] Knowledge base loaded with 47 entries.
